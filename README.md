@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @boliev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Vladimir Boliev
 
-<!---
-boliev/boliev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend engineer and engineering consultant focused on Go, highload backend systems, architecture reviews and engineering processes.
+
+I help teams with:
+
+- backend architecture audit
+- Go codebase review
+- CI/CD and release process review
+- technical debt analysis
+- AI-assisted engineering workflows
+
+Current focus: consulting for product and engineering teams that need an outside senior technical view.
+
+Contact: Telegram / LinkedIn / email
